@@ -1,3 +1,3 @@
-module github.com/hisend/hisend-go
+module github.com/gethisend/hisend-go
 
 go 1.25.0
